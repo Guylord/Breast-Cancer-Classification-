@@ -64,7 +64,7 @@ This project uses the Breast Cancer Wisconsin (Diagnostic) dataset from the UCI 
    **Evaluation Metrics:**
 - **Validation Loss:** 0.0297
 - **Validation Accuracy:** 1.0000
-- 
+  
 - **Training Loss:** 0.0538
 - **Training Accuracy:** 0.9890
 

@@ -49,7 +49,7 @@ This project uses the Breast Cancer Wisconsin (Diagnostic) dataset from the UCI 
 
 #### 2. **Neural Network Model:**
    A neural network model is built for classification, with the following architecture:
-   - **Input Layer:** 128 neurons, ReLU activation
+   - **Input Layer:** 128 neurons, Tanh activation
    - **Hidden Layers:**
        64 neurons, Tanh activation;
        16 neurons, Tanh activation
